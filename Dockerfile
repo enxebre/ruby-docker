@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER Alberto Lamela <alberto.lamela@capgemini.com>
+MAINTAINER Alberto Lamela <alberto.garcial@hotmail.com>
 
 RUN apk --update add \
 		bash \
